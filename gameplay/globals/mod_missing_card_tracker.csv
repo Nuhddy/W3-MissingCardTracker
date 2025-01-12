@@ -1,0 +1,102 @@
+EntryIdx;Location;LocationEng;FactsQuery;DLC;Cards
+01;1053373,1053310,543352,593324;white orchard, woesong bridge, elsa, buy;;;gwint_card_blue_stripes,gwint_card_catapult,gwint_card_crinfrid,gwint_card_dummy,gwint_card_foltest_bronze
+02;1053373,1053310,451163,593324;white orchard, woesong bridge, merchant, buy;;;gwint_card_blue_stripes,gwint_card_catapult,gwint_card_crinfrid,gwint_card_foltest_bronze
+03;1053373,1053310,1085020,173593;white orchard, woesong bridge, scholar, duel;;;gwint_card_zoltan
+04;1053374,1205507,1055163,173593;vizima, palace gardens, nilfgaardian nobleman, duel;;;gwint_card_foltest_silver
+05;1064139,1055962,338912,173593;velen, blackbough, blacksmith, duel;merchant_card_sq104_villager_1_card_already_given,merchant_card_snots_blacksmith_01_card_already_given;;
+06;1064139,1055962,451163,173593;velen, blackbough, merchant, duel;merchant_card_snots_general_store_01_card_already_given;;
+07;1064139,1055991,451163,1087893,593324;velen, claywich, merchant person in distress, buy;;;gwint_card_archer_support2,gwint_card_black_archer,gwint_card_crinfrid2,gwint_card_puttkammer,gwint_card_sweers
+08;1064139,1055991,451163,1087893,173593;velen, claywich, merchant person in distress, duel;merchant_card_glinsk_general_store_01_card_already_given;;
+09;1064139,1055966,1084945,173593;velen, crows perch, fergus graem, duel;merchant_card_fergus_graem_card_already_given;;
+10;1064139,1055966,451163,593324;velen, crows perch, merchant, buy;;;gwint_card_albrich,gwint_card_impera_brigade,gwint_card_nausicaa3,gwint_card_zerri
+11;1064139,1055966,451163,173593;velen, crows perch, merchant, duel;merchant_card_baron_keep_village_trader_01_card_already_given;;
+12;1064139,1055966,499062,593324;velen, crows perch, quartermaster, buy;;;gwint_card_blue_stripes,gwint_card_cynthia,gwint_card_dummy,gwint_card_nausicaa
+13;1064139,1055966,1046066,173593;velen, crows perch, yoana, duel;merchant_card_sq108_blacksmith_woman_card_already_given;;
+14;1064139,1055014,451163,173593;velen, downwarren, merchant, duel;merchant_card_borrows_shopkeep_01_card_already_given;;
+15;1064139,1082082,317167;velen, hanged mans tree, loot;;;gwint_card_zoltan
+16;1064139,1055965,338912,173593;velen, lindenvale, blacksmith, duel;merchant_card_midcotts_blacksmith_01_card_already_given;;
+17;1064139,1055965,451163,593324;velen, lindenvale, merchant, buy;;;gwint_card_archer_support,gwint_card_black_archer2,gwint_card_heavy_zerri,gwint_card_poor_infantry3,gwint_card_rainfarn
+18;1064139,1055965,451163,173593;velen, lindenvale, merchant, duel;merchant_card_midcotts_trader_01_card_already_given;;
+19;1064139,1055961,423608,173593;velen, midcopse, armorer, duel;merchant_card_mouth_armorer_01_card_already_given;;
+20;1064139,1055961,451163,593324;velen, midcopse, merchant, buy;;;gwint_card_blue_stripes,gwint_card_crinfrid3,gwint_card_morteisen,gwint_card_poor_infantry2
+21;1064139,1055961,451163,173593;velen, midcopse, merchant, duel;merchant_card_mouth_shopkeeper_01_card_already_given;;
+22;1064139,1055973,477733,173593;velen, nilfgaardian army group center camp, nilfgaardian officer, duel;merchant_card_mq1051_nilfgaard_officer_card_already_given;;
+23;1064139,1055964,451163,173593;velen, oreton, merchant, duel;merchant_card_rudnik_shopkeeper_01_card_already_given;;gwint_card_combat_engineer
+24;1064139,1055987,175619,593324;velen, inn crossroads, innkeep, buy;;;gwint_card_emhyr_bronze,gwint_card_horn,gwint_card_impera_brigade2,gwint_card_nausicaa2
+25;1064139,1078785,1076752;velen, quest, gwent velen players;;;gwint_card_crone_weavess,gwint_card_dijkstra,gwint_card_eredin_silver,gwint_card_letho,gwint_card_vernon
+26;1053453,423608,173593;oxenfurt, armorer, duel;merchant_card_whitebridge_redanian_armorer_01_card_already_given;;
+27;1053453,338912,173593;oxenfurt, blacksmith, duel;merchant_card_whitebridge_redanian_blacksmith_01_card_already_given;;
+29;1053453,451163,173593;oxenfurt, merchant, duel;merchant_card_whitebridge_general_store_01_card_already_given;;
+D6;1053453,1079409,1121152,173593;oxenfurt, the alchemy, olgierd von everec, duel;;true;gwint_card_toad
+28;1053453,1079409,351325,593324;oxenfurt, the alchemy, stjepan, buy;;;gwint_card_dol_dwarf,gwint_card_horn,gwint_card_mahakam2,gwint_card_vrihedd_brigade
+D5;1053453,1130173,1104501,173593;oxenfurt, shanis clinic, shani, duel;;true;gwint_card_olgierd
+D7;1053453,1078785,1104514;oxenfurt, quest, open sesame;;true;gwint_card_mrmirror
+D1;1053361,1136299,546189,317167;novigrad, brunwich, barn, loot;;true;gwint_card_cow
+30;1053361,1082631,516614,173593;novigrad, elector square, alchemist, duel;merchant_card_novi_temple_dist_alchemist_01_card_already_given;;
+31;1053361,1053423,175241,173593;novigrad, farcorners, elihal, duel;merchant_card_elihal_card_already_given;;
+32;1053361,1079814,338912,173593;novigrad, fish market, blacksmith, duel;merchant_card_novigrad_market_smith_01_card_already_given;;
+33;1053361,1079814,451163,173593;novigrad, fish market, merchant, duel;merchant_card_novigrad_market_trader_01_card_already_given;;
+34;1053361,1053418,451163,173593;novigrad, gildorf, merchant, duel;merchant_card_novi_rich_dist_general_store_01_card_already_given;;
+35;1053361,1053418,1076354,593324;novigrad, gildorf, passiflora, buy;;;gwint_card_catapult2,gwint_card_dol_archer,gwint_card_horn,gwint_card_mahakam
+36;1053361,1053451,1076352,173593;novigrad, glory lane, crippled kates, duel;merchant_card_novi_brothel_dist_pegleg_peggys_card_already_given;;
+37;1053361,1053451,543165,173593;novigrad, glory lane, herbalist, duel;merchant_card_novi_brothel_dist_herbs_trader_card_already_given;;
+38;1053361,1053420,336173,173593;novigrad, hierarch square, bookseller, duel;merchant_card_novigrad_market_book_merchant_01_card_already_given;;
+39;1053361,1077563,451163,173593;novigrad, lacehalls, merchant, duel;merchant_card_q301_shady_merchant_card_already_given;;
+40;1053361,1077559,516614,173593;novigrad, oxenfurt gate, alchemist, duel;merchant_card_novi_crematory_alchemist_01_card_already_given;;
+41;1053361,1053417,338912,173593;novigrad, silverton, blacksmith, duel;merchant_card_novigrad_citizen_district_regular_smith_01_card_already_given;;
+42;1053361,1053417,451163,1107708,173593;novigrad, silverton, merchant indoor, duel;merchant_card_novigrad_citizen_district_shopkeeper_01_card_already_given;;
+43;1053361,1053417,451163,1107678,173593;novigrad, silverton, merchant outdoor, duel;merchant_card_novigrad_market_trader_02_card_already_given;;
+44;1053361,1053419,1077339,173593;novigrad, the bits, loan shark, duel;merchant_card_novi_poor_dist_loan_shark_card_already_given;;
+45;1053361,1053419,451163,1107658,173593;novigrad, the bits, merchant near loan shark, duel;merchant_card_novi_junk_seller_card_already_given;;
+46;1053361,1053419,451163,1107678,173593;novigrad, the bits, merchant near tretogor gate, duel;merchant_card_novigrad_market_trader_03_card_already_given;;
+47;1053361,1056056,175619,593324;novigrad, cunny goose, innkeep, buy;;;gwint_card_francesca_bronze,gwint_card_havekar_nurse2,gwint_card_impera_brigade4,gwint_card_scorch,gwint_card_young_emissary
+48;1053361,1056056,175619,173593;novigrad, cunny goose, innkeep, duel;merchant_card_fat_catch_inn_barkeep_01_card_already_given;;
+49;1053361,1078495,175619,593324;novigrad, golden sturgeon, innkeep, buy;;;gwint_card_barclay,gwint_card_dol_infantry,gwint_card_mahakam4,gwint_card_siege_support
+50;1053361,1078495,175619,173593;novigrad, golden sturgeon, innkeep, duel;merchant_card_novigrad_citizen_district_golden_sturgeon_inkeeper_01_card_already_given;;
+51;1053361,1079403,175253,593324;novigrad, kingfisher, olivier, buy;;;gwint_card_havekar_nurse3,gwint_card_havekar_support3,gwint_card_mahakam5,gwint_card_vrihedd_brigade2
+52;1053361,1078464,175619,173593;novigrad, the nowhere, innkeep, duel;merchant_card_novigrad_poor_district_nowhere_01 _card_already_given;;
+53;1053361,1056055,175619,593324;novigrad, seven cats, innkeep, buy;;;gwint_card_dummy,gwint_card_havekar_support,gwint_card_impera_brigade3,gwint_card_mahakam3,gwint_card_young_emissary2
+54;1053361,1056055,175619,173593;novigrad, seven cats, innkeep, duel;merchant_card_novigrad_suburbs_seven_cats_inn_01_card_already_given;;
+D2;1053361,1135659,451163,593324;novigrad, upper mill, merchant, buy;;true;gwint_card_eredin_platinium,gwint_card_francesca_platinium,gwint_card_mrmirror_foglet
+D3;1053361,1053452,1133954,593324;novigrad, vegelbud residence, circus worker, buy;;true;gwint_card_barclay,gwint_card_catapult2,gwint_card_dol_archer,gwint_card_dol_infantry,gwint_card_emhyr_platinium,gwint_card_foltest_platinium,gwint_card_havekar_nurse3,gwint_card_havekar_support3,gwint_card_horn,gwint_card_mahakam,gwint_card_mahakam4,gwint_card_mahakam5,gwint_card_mrmirror_foglet,gwint_card_siege_support,gwint_card_vrihedd_brigade2
+D4;1053361,1053452,1133954,173593;novigrad, vegelbud residence, circus worker, duel;;true;gwint_card_schirru
+55;1053361,1078785,503027;novigrad, quest, dangerous game;;;gwint_card_fringilla,gwint_card_isengrim,gwint_card_natalis
+56;1053361,1078785,433339;novigrad, quest, matter of life and death;;;gwint_card_bruxa,gwint_card_dandelion,gwint_card_milva
+57;1053361,1078785,1076783;novigrad, quest, gwent old pals;;;gwint_card_eithne,gwint_card_saskia,gwint_card_triss
+58;1053361,1078785,1076777;novigrad, quest, gwent playing innkeeps;;;gwint_card_menno,gwint_card_tibor,gwint_card_yennefer
+59;1053361,1078785,1076788;novigrad, quest, gwent playing thaler;;;gwint_card_geralt
+60;1053361,1078785,1076791;novigrad, quest, gwent big city players;;;gwint_card_ciri,gwint_card_esterad,gwint_card_francesca_silver,gwint_card_moorvran,gwint_card_vesemir
+61;1053361,1078785,1083006;novigrad, quest, high stakes gwent tournament;;;gwint_card_emhyr_gold,gwint_card_eredin_gold,gwint_card_foltest_gold,gwint_card_francesca_gold
+62;320361,1056645,338912,173593;skellige, arinbjorn, blacksmith, duel;merchant_card_arinbjorn_blacksmith_01_card_already_given;;
+63;320361,1056645,175619,593324;skellige, arinbjorn, innkeep, buy;;;gwint_card_arachas,gwint_card_crone_whispess,gwint_card_fiend,gwint_card_thaler
+64;320361,1056645,175619,173593;skellige, arinbjorn, innkeep, duel;merchant_card_arinbjorn_innkeeper_01_card_already_given;;
+65;320361,1056654,451163,173593;skellige, blandare, merchant, duel;merchant_card_blandare_merchant_01_card_already_given;;
+66;320361,1056644,338912,173593;skellige, fayrlund, blacksmith, duel;merchant_card_ferlund_blacksmith_01_card_already_given;;
+67;320361,1056644,451163,173593;skellige, fayrlund, merchant, duel;merchant_card_ferlund_trader_01_card_already_given;;
+68;320361,1056647,338912,173593;skellige, fyresdal, blacksmith, duel;merchant_card_baron_quartermaster_01_card_already_given;;
+69;320361,1056647,451163,173593;skellige, fyresdal, merchant, duel;merchant_card_fyresdal_shopkeeper_01_card_already_given;;
+70;320361,1056000,338912,173593;skellige, harviken, blacksmith, duel;merchant_card_dimun_smith_01_card_already_given;;
+71;320361,1056000,175619,593324;skellige, harviken, innkeep, buy;;;gwint_card_fleder,gwint_card_ghoul,gwint_card_harpy,gwint_card_nekker2
+72;320361,1056000,175619,173593;skellige, harviken, innkeep, duel;merchant_card_dimun_tavern_barkeep_01_card_already_given;;
+73;320361,1082885,451163,173593;skellige, holmsteins port, merchant, duel;merchant_card_holmestein_trader_01_card_already_given;;
+74;320361,1082845,423608,173593;skellige, kaer muire, armorer, duel;merchant_card_lugos_keep_armorer_01_card_already_given;;
+75;320361,1082845,338912,173593;skellige, kaer muire, blacksmith, duel;merchant_card_lugos_keep_smith_01_card_already_given;;
+76;320361,317985,423608,173593;skellige, kaer trolde, armorer, duel;merchant_card_kaer_trolde_castle_armorer_01_card_already_given;;
+77;320361,317985,338912,173593;skellige, kaer trolde, blacksmith, duel;merchant_card_kaer_trolde_castle_blacksmith_01_card_already_given;;
+78;320361,317985,543165,173593;skellige, kaer trolde, herbalist, duel;merchant_card_kaer_trolde_herbalist_01_card_already_given;;
+79;320361,317985,467089,593324;skellige, kaer trolde, jonas innkeep, buy;;;gwint_card_botchling,gwint_card_earth_elemental,gwint_card_eredin_bronze,gwint_card_scorch
+80;320361,317985,467089,173593;skellige, kaer trolde, jonas innkeep, duel;merchant_card_jonas_card_already_given;;
+81;320361,1055996,423608,173593;skellige, larvik, armorer, duel;merchant_card_larvik_armorer_01_card_already_given;;
+82;320361,1055996,175619,173593;skellige, larvik, innkeep, duel;merchant_card_larvik_warriors_hall_01_card_already_given;;
+83;320361,1055996,451163,173593;skellige, larvik, merchant, duel;merchant_card_larvik_shopkeeper_01_card_already_given;;
+84;320361,1055992,338912,173593;skellige, svorlag, blacksmith, duel;merchant_card_brokvar_smith_01_card_already_given;;
+85;320361,1055992,175619,593324;skellige, svorlag, innkeep, buy;;;gwint_card_arachas3,gwint_card_ekkima,gwint_card_fogling,gwint_card_ice_giant
+86;320361,1055992,175619,173593;skellige, svorlag, innkeep, duel;merchant_card_brokvar_innkeeper_01_card_already_given;;
+87;320361,1055992,451163,173593;skellige, svorlag, merchant, duel;merchant_card_brokvar_shopkeeper_01_card_already_given;;
+88;320361,1083005,423608,173593;skellige, urialla harbor, armorer, duel;merchant_card_tuiseach_armorer_01_card_already_given;;
+89;320361,1083005,338912,173593;skellige, urialla harbor, blacksmith, duel;merchant_card_tuiseach_smith_01_card_already_given;;
+90;320361,1083005,175619,593324;skellige, urialla harbor, innkeep, buy;;;gwint_card_arachas2,gwint_card_elf_skirmisher,gwint_card_scorch,gwint_card_werewolf
+91;320361,1083005,175619,173593;skellige, urialla harbor, innkeep, duel;merchant_card_tuiseach_inn_owner_01_card_already_given;;
+92;320361,1078785,592254;skellige, quest, following the thread;;;gwint_card_avallach,gwint_card_nekker
+93;320361,1078785,1076765;skellige, quest, gwent skellige style;;;gwint_card_draug,gwint_card_emhyr_silver,gwint_card_katakan,gwint_card_leshen,gwint_card_yaevinn
+94;320361,1078785,1028939;skellige, quest, shock therapy;;;gwint_card_iorveth
