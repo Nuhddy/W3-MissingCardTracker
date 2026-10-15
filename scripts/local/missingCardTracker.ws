@@ -103,8 +103,8 @@ class CMissingCardTracker {
             if (randomRemaining && query[0] != "") {
                 for (j = 0; j < query.Size(); j += 1) {
                     if (FactsQuerySum(query[j]) == 0) {
-						locationsRemaining.PushBack(locations[i]);
-						break;
+                        locationsRemaining.PushBack(locations[i]);
+                        break;
                     }
                 }
             } else {
@@ -124,22 +124,22 @@ class CMissingCardTracker {
                             break;
                     }
 
-                    if (thePlayer.inv.GetItemQuantityByName(card) == amount) continue;
+                    // normalize gog variants
+                    if (card == 'gwint_card_gog_ciri') {
+                        card = 'gwint_card_ciri';
+                    } else if (card == 'gwint_card_gog_geralt') {
+                        card = 'gwint_card_geralt';
+                    }
 
-                    // handle new card variations from gog rewards
-                    if (thePlayer.inv.GetItemQuantityByName('gwint_card_roach') == 1) {
-                        switch (card) {
-                            case 'gwint_card_gog_ciri':
-                                card = 'gwint_card_ciri';
-                                break;
-                            case 'gwint_card_gog_geralt':
-                                card = 'gwint_card_geralt';
-                                break;
-                            case 'gwint_card_ciri':
-                            case 'gwint_card_geralt':
-                                continue;
-                            default: break;
-                        }
+                    // ownership check
+                    if (thePlayer.inv.GetItemQuantityByName(card) >= amount) {
+                        continue;
+                    } else if (card == 'gwint_card_ciri') {
+                        if (thePlayer.inv.GetItemQuantityByName('gwint_card_gog_ciri') > 0)
+                            continue;
+                    } else if (card == 'gwint_card_geralt') {
+                        if (thePlayer.inv.GetItemQuantityByName('gwint_card_gog_geralt') > 0)
+                            continue;
                     }
 
                     // if list of cards (mod_missing_card_tracker.csv) contains card name (card_sources.csv)
@@ -168,7 +168,7 @@ class CMissingCardTracker {
                 l = locationsRemaining[i];
 
                 item = "- ";
-                
+
                 item += GetLocStringById(StringToInt(l.location[0]));
                 for (j = 1; j < l.location.Size(); j += 1) {
                     item += ", " + GetLocStringById(StringToInt(l.location[j]));
