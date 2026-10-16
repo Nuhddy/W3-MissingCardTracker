@@ -97,6 +97,6 @@ D4;1053361,1053452,1133954,173593;novigrad, vegelbud residence, circus worker, d
 89;320361,1083005,338912,173593;skellige, urialla harbor, blacksmith, duel;merchant_card_tuiseach_smith_01_card_already_given;;
 90;320361,1083005,175619,593324;skellige, urialla harbor, innkeep, buy;;;gwint_card_arachas2,gwint_card_elf_skirmisher,gwint_card_scorch,gwint_card_werewolf
 91;320361,1083005,175619,173593;skellige, urialla harbor, innkeep, duel;merchant_card_tuiseach_inn_owner_01_card_already_given;;
-92;320361,1078785,592254;skellige, quest, following the thread;;;gwint_card_avallach,gwint_card_nekker
-93;320361,1078785,1076765;skellige, quest, gwent skellige style;;;gwint_card_draug,gwint_card_emhyr_silver,gwint_card_katakan,gwint_card_leshen,gwint_card_yaevinn
+92;320361,1078785,592254;skellige, quest, following the thread;;;gwint_card_nekker
+93;320361,1078785,1076765;skellige, quest, gwent skellige style;;;gwint_card_avallach,gwint_card_draug,gwint_card_emhyr_silver,gwint_card_katakan,gwint_card_leshen,gwint_card_yaevinn
 94;320361,1078785,1028939;skellige, quest, shock therapy;;;gwint_card_iorveth
